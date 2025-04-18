@@ -1,5 +1,5 @@
 # PID-on-LFR
-This is something i worked on as a freshmen for my calculus final project. I made two controllers the first one is a simple bang bang controller using 4 IRs while the other one is a manually tuned PID controller.
+This is something i worked on as a freshmen for my calculus final project. I made two controllers the first one is a simple bang bang controller using 3 IRs(D2,D4,D6) while the other one is a manually tuned PID controller.
 
 Hardware Used:- 
   1) Arduino Uno
